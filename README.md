@@ -22,7 +22,7 @@ To start the application, run the following command:
 python tkapp.py
 ```
 
-Once the application starts, you will see a window with the webcam video feed. The application will start detecting the marshalling signals in real-time. You can take a screenshot by clicking on the `"Take Screenshot"` button. You can also remove the annotation by clicking on the `"Remove Annotation"` button. To pause/play the video, click on the `"Pause/Play"` button. To change the video source, click on the `"Change Video Source"` button. To change the classification model, click on the `"Change Classification Model"` button.
+Once the application starts, you will see a window with the webcam video feed. The application will start detecting the marshalling signals in real-time. You can take a screenshot by clicking on the `"Take Screenshot"` button. You can also remove the annotation by clicking on the `"Remove Annotation"` button. To pause/play the video, click on the `"Pause/Play"` button. To change the video source, click on the `"Change Video Source"` button.
 
 ## Model Training
 The LSTM model used for classification was trained on a dataset of marshalling signals using the tensorflow library. The code for training the model is included in the `"model_training.ipynb"` notebook. You can use this notebook to train your own model using your own dataset.
