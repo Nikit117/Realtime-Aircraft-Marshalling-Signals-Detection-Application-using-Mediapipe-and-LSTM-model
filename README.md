@@ -19,7 +19,7 @@ pip install mediapipe tensorflow opencv-python tkinter
 ## Usage
 To start the application, run the following command:
 ```python
-python main.py
+python tkapp.py
 ```
 
 Once the application starts, you will see a window with the webcam video feed. The application will start detecting the marshalling signals in real-time. You can take a screenshot by clicking on the `"Take Screenshot"` button. You can also remove the annotation by clicking on the `"Remove Annotation"` button. To pause/play the video, click on the `"Pause/Play"` button. To change the video source, click on the `"Change Video Source"` button. To change the classification model, click on the `"Change Classification Model"` button.
