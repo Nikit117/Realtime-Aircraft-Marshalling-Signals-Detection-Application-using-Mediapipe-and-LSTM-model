@@ -1,6 +1,7 @@
 # Realtime-Aircraft-Marshalling-Signals-Detection-Application-using-Mediapipe-and-LSTM-model
 This is a Realtime Aircraft Marshalling Signals Detection Application made using Mediapipe and LSTM model. It is made using tkinter and it classifies between 10 signals. It also has 5 features: to take screenshot, remove annotation, pause/play, change video source and change classification model.
-[![Watch the video](air.jpg)](https://www.youtube.com/watch?v=6oXCB8pIpBo&ab_channel=John117)
+
+[![Watch the video](air.png)](https://www.youtube.com/watch?v=6oXCB8pIpBo&ab_channel=John117)
 ## Requirements
 To run this application, you need to have the following installed:
 
